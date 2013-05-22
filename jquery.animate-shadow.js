@@ -26,6 +26,8 @@ jQuery(function($, undefined) {
 			} catch (e) {
 			}
 		}
+		
+		$script.removeAttr('style');
 
 		return result;
 	}

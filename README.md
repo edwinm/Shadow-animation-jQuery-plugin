@@ -1,6 +1,6 @@
 # Shadow animation jQuery plugin
 
-Enhances the jQuery animate function with shadow animations. You can animate color, the x- and y-offset, the blur radius and spread radius.
+Enhances the jQuery animate function with shadow animations. You can animate color, the x and y offset, the blur radius and spread radius.
 
 See [Shadow animation jQuery plugin](http://www.bitstorm.org/jquery/shadow-animation/) for more information.
 

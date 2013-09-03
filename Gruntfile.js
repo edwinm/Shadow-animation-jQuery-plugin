@@ -7,8 +7,8 @@ module.exports = function (grunt) {
 		'closure-compiler': {
 			frontend: {
 				closurePath: 'closure-compiler',
-				js: 'jquery.animate-colors.js',
-				jsOutputFile: 'jquery.animate-colors-min.js',
+				js: 'jquery.animate-shadow.js',
+				jsOutputFile: 'jquery.animate-shadow-min.js',
 				maxBuffer: 500,
 				options: {
 					compilation_level: 'ADVANCED_OPTIMIZATIONS',
@@ -21,12 +21,12 @@ module.exports = function (grunt) {
 		'zopfli': {
 			'compress-plugins': {
 				'files': {
-					'jquery.animate-colors-min.js.gz': 'jquery.animate-colors-min.js'
+					'jquery.animate-colors-min.js.gz': 'jquery.animate-shadow-min.js'
 				}
 			}
 		},
 		'watch': {
-			files: ['jquery.animate-colors.js'],
+			files: ['jquery.animate-shadow.js'],
 			tasks: ['closure-compiler', 'zopfli']
 		}
 	});

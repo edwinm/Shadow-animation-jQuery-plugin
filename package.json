@@ -1,6 +1,6 @@
 {
-  "name": "Color-animation",
-  "version": "1.5.1",
+  "name": "jquery-shadow-animation",
+  "version": "1.10.0",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-closure-compiler": "0.0.21",

@@ -21,7 +21,7 @@ module.exports = function (grunt) {
 		'zopfli': {
 			'compress-plugins': {
 				'files': {
-					'jquery.animate-colors-min.js.gz': 'jquery.animate-shadow-min.js'
+					'jquery.animate-shadow-min.js.gz': 'jquery.animate-shadow-min.js'
 				}
 			}
 		},

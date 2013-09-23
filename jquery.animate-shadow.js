@@ -1,12 +1,12 @@
 /**!
- * @preserve Shadow animation 1.10
+ * @preserve Shadow animation 1.11
  * http://www.bitstorm.org/jquery/shadow-animation/
  * Copyright 2011, 2013 Edwin Martin <edwin@bitstorm.org>
  * Contributors: Mark Carver, Xavier Lepretre and Jason Redding
  * Released under the MIT and GPL licenses.
  */
 
-$(function($, undefined) {
+jQuery(function($, undefined) {
 	/**
 	 * Check whether the browser supports RGBA color mode.
 	 *

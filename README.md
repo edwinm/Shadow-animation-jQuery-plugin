@@ -13,5 +13,7 @@ License: MIT or GPL
 To get the jQuery plugins, use one of:
 
 `git clone https://github.com/edwinm/Shadow-animation-jQuery-plugin.git`
+
 `npm install jquery-shadow-animation`
+
 `bower install jquery-shadow-animation`

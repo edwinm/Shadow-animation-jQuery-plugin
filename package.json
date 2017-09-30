@@ -5,6 +5,7 @@
   "keywords": ["jquery-plugin", "ecosystem:jquery", "animation", "shadow", "glow", "effect"],
   "homepage": "http://www.bitstorm.org/jquery/shadow-animation/",
   "bugs": "https://github.com/edwinm/Shadow-animation-jQuery-plugin/issues",
+  "main": "jquery.animate-shadow-min.js",
   "license": "MIT",
   "author": "Edwin Martin <edwin@bitstorm.org>",
   "repository": {

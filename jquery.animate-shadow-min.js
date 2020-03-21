@@ -1,5 +1,5 @@
 /*
- Shadow animation 1.11
+ Shadow animation 1.12
  http://www.bitstorm.org/jquery/shadow-animation/
  Copyright 2011, 2013 Edwin Martin
  Contributors: Mark Carver, Xavier Lepretre and Jason Redding

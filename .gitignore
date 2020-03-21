@@ -1,2 +1,4 @@
 node_modules/*
 .svn/*
+.idea
+compiler-err.txt

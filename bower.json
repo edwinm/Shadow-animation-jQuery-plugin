@@ -1,6 +1,6 @@
 {
   "name": "jquery-shadow-animation",
-  "version": "1.10.0",
+  "version": "1.12.0",
   "description": "Animate all aspects of a shadow: the color, the x- and y-offset, the blur-radius and spread-radius.",
   "main": "./jquery.animate-shadow.js",
   "ignore": [],
